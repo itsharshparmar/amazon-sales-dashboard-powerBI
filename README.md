@@ -65,13 +65,11 @@ This Power BI dashboard addresses the following key performance metrics:
 
 ---
 
-## 👤 Author
+## 📬 Contact
 
-**[Your Name or GitHub Handle]**  
-Feel free to connect or collaborate!
+Feel free to reach out for any feedback or suggestions.
+
+**Harshdev Parmar**  
+📧 Email: [harsh.parmar03@gmail.com](mailto:harsh.parmar03@gmail.com)
 
 ---
-
-## ⭐ If you like this project...
-
-Give it a ⭐ on GitHub and follow for more projects like this!
